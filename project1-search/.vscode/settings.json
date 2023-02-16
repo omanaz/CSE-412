@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "graphicsDisplay.py": true,
+        "graphicsUtils.py": true,
+        "textDisplay.py": true,
+        "ghostAgents.py": true,
+        "keyboardAgents.py": true,
+        "layout.py": true,
+        "autograder.py": true,
+        "testParser.py": true,
+        "testClasses.py": true,
+        "searchTestClasses.py": true
+    },
+    "hide-files.files": []
+}
